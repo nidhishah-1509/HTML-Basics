@@ -3,7 +3,7 @@ Welcome to the HTML Basics Reference repository! This collection is a personal c
 
 What you'll find: 
   1. HTML Boilerplate – The standard structure of an HTML document.
-  2. Anchor Elements – Creating links using <a>.
+  2. Anchor Elements – Creating links using "<a>".
   3. Heading Elements – Usage of <h1> through <h6>.
   4. Paragraph Elements – Formatting text using <p>.
   5. Image Elements – Displaying images using <img>.
